@@ -1,0 +1,1 @@
+python main.py C:\Users\Administrator\PycharmProjects\rjgc\测试文本\orig.txt C:\Users\Administrator\PycharmProjects\rjgc\测试文本\orig_0.8_dis_15.txt 文章相似度： 0.98
